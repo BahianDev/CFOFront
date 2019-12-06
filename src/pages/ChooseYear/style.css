@@ -1,0 +1,20 @@
+.Divinputyear{
+  position:absolute;
+  left:50%;
+  top:50%;
+  margin-left:-110px;
+  margin-top:-40px;
+
+}
+.Inputyear{
+  width: 300px;
+  height: 30px;
+  background-color:darkgray;
+  padding: 1px;
+}
+.Textinputyear{
+  text-transform: uppercase;
+  text-align: left;
+  font-weight: bold;
+  font-size: 20px
+}
